@@ -1,2 +1,2 @@
 # Yukitoki Docs
-Documentation for **Yukitoki**.
+Documentation for **[Yukitoki](https://yukitoki.snowflakedev.cf)**.
