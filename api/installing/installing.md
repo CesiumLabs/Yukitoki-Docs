@@ -19,6 +19,7 @@
         global: "DiscordPlayer", // will append DiscordPlayer. before constructor name
         repo: "Androz2091/discord-player", // the github repo where your docs are located at
         defaultTag: "master", // /docs/main/master
+        docsBranch: "docs", // name of the branch where your docs files are located at
         defaultFile: { // the file shown after loading: /docs/main/master/general/welcome
             id: "welcome",
             category: "general"
